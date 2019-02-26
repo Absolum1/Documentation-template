@@ -4,7 +4,9 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 
 <h1 align="center">Documentation template (Title)</h1>
 
+
 <p align="center">Easy, clean and maintainable (Subtitle)</p>
+
 
 <p align="center"> 
 <a href="https://absolum.nl"><img src="https://img.shields.io/badge/website-absolum.nl-lightgrey.svg" alt="Website"></a>
@@ -12,21 +14,27 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 <a href="https://absolum.nl/mitlicense"><img src="https://img.shields.io/badge/license-MIT-lightgrey.svg" alt="License"></a>
 </p>
 
+
 ## Tips/Announcements (Soft Introduction)
 - :page_facing_up: <a href="https://absolum.nl/shields" target="_blank"> All of our shields</a>
 - :clipboard: <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank"> Emoji cheatsheet</a>
 - 🎉 Open source
+
 
 ## Why did we make this? (Explanation)
 We made this to streamline our GitHub repositories with one clean template, 
 
 which is easier to maintain and to build.
 
+
 ## How to use the template (Guide)
 Download, fork or clone the  ```README.md``` file and edit it to your contents
 it's that easy.
 
+
 ### How to download, fork or clone (Step-by-step guide)
+
+
 #### Download
 Go to the green button that says download and download the zip file.
 
