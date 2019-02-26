@@ -16,7 +16,7 @@ target="_blank"><br><img width="200" src="https://absolum.nl/assets/images/absol
 
 
 ## Tips/Announcements (Soft Introduction)
-- :page_facing_up: <a href="https://absolum.nl/shields" target="_blank"> All of our shields</a>
+- :page_facing_up: <a href="https://github.com/Absolum1/Shields" target="_blank"> All of our shields</a>
 - :clipboard: <a href="https://www.webfx.com/tools/emoji-cheat-sheet/" target="_blank"> Emoji cheatsheet</a>
 - 🎉 Open source
 
