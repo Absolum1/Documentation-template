@@ -48,6 +48,5 @@ Go to the top right corner of the page and click fork
 #### Clone
 1. Go to your terminal of choice
 2. Check if git is installed via ```git --version``` (if nothing is returned you don't have git installed)
-
-2.1 Install git ```sudo apt-get git``` (optional) 
-3. ```git clone https://github.com/Absolum1/Documentation-template.git```
+3. Install git ```sudo apt-get git``` (optional) 
+4. ```git clone https://github.com/Absolum1/Documentation-template.git```
